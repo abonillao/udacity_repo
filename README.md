@@ -11,4 +11,5 @@ This is a repository to gain familiarity with git and Github.
 * git push: to push the new commited changes
 * git branch: to list the branches
 * git checkout: to move to another branch (how to create a new branch using checkout?)
+* git branch -d branch_name
 
